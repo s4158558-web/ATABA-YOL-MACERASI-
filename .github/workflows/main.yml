@@ -13,7 +13,7 @@ jobs:
 
       - name: Extract Android project
         run: |
-          unzip -o ATABA_Yol_Macerasi_Android_Projesi_v99.zip -d ataba
+          unzip -o ATABA_Yol_Macerasi_Android_Projesi_KAPAKLI.zip -d ataba
 
       - name: Set up Java
         uses: actions/setup-java@v4
